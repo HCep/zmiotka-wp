@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23abeb"/>
+      <stop offset="1" stop-color="#006a9c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="80" height="84" transform="translate(-0.199 -0.209)" fill="none" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="oferta5" transform="translate(-1550 -966)">
+    <circle id="Ellipse_130" data-name="Ellipse 130" cx="90" cy="90" r="90" transform="translate(1550 966)" fill="url(#linear-gradient)"/>
+    <g id="Group_53" data-name="Group 53" transform="translate(1600.199 1014.209)">
+      <g id="Group_25" data-name="Group 25" clip-path="url(#clip-path)">
+        <path id="Path_80" data-name="Path 80" d="M39.321,11.09a48.363,48.363,0,0,1,28.8,9.45l7.4-7.37a58.961,58.961,0,0,0-72.4,0l7.4,7.37A48.363,48.363,0,0,1,39.321,11.09Z" transform="translate(0.48 0.112)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_81" data-name="Path 81" d="M.75,78.668V33H24.977V78.668" transform="translate(0.115 4.913)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_82" data-name="Path 82" d="M47.25,78.668V33H71.477V78.668" transform="translate(7.26 4.913)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_23" data-name="Line 23" y2="21.542" transform="translate(18.17 16.372)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_24" data-name="Line 24" y2="21.542" transform="translate(61.432 16.372)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_25" data-name="Line 25" x2="29.418" transform="translate(25.092 62.902)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_83" data-name="Path 83" d="M4.5,42.67V37.5H9.691v5.17" transform="translate(0.691 5.583)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_84" data-name="Path 84" d="M13.5,42.67V37.5h5.191v5.17" transform="translate(2.074 5.583)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_85" data-name="Path 85" d="M4.5,50.92V45.75H9.691v5.17" transform="translate(0.691 6.812)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_86" data-name="Path 86" d="M13.5,50.92V45.75h5.191v5.17" transform="translate(2.074 6.812)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_87" data-name="Path 87" d="M4.5,59.17V54H9.691v5.17" transform="translate(0.691 8.04)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_88" data-name="Path 88" d="M13.5,59.17V54h5.191v5.17" transform="translate(2.074 8.04)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_89" data-name="Path 89" d="M4.5,67.42V62.25H9.691v5.17" transform="translate(0.691 9.268)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_90" data-name="Path 90" d="M13.5,67.42V62.25h5.191v5.17" transform="translate(2.074 9.268)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_91" data-name="Path 91" d="M51,41.92V36.75h5.191v5.17" transform="translate(7.836 5.472)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_92" data-name="Path 92" d="M60,41.92V36.75h5.191v5.17" transform="translate(9.219 5.472)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_93" data-name="Path 93" d="M51,50.17V45h5.191v5.17" transform="translate(7.836 6.7)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_94" data-name="Path 94" d="M60,50.17V45h5.191v5.17" transform="translate(9.219 6.7)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_95" data-name="Path 95" d="M51,58.42V53.25h5.191v5.17" transform="translate(7.836 7.928)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_96" data-name="Path 96" d="M60,58.42V53.25h5.191v5.17" transform="translate(9.219 7.928)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_97" data-name="Path 97" d="M51,66.67V61.5h5.191v5.17" transform="translate(7.836 9.157)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_98" data-name="Path 98" d="M60,66.67V61.5h5.191v5.17" transform="translate(9.219 9.157)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_26" data-name="Line 26" y2="20.68" transform="translate(39.801 62.902)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_99" data-name="Path 99" d="M20.25,22.643V15.75H53.129v6.893" transform="translate(3.111 2.345)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_100" data-name="Path 100" d="M20.25,30.67V25.5H53.129v5.17" transform="translate(3.111 3.797)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_101" data-name="Path 101" d="M26.25,42.143V35.25H45.285v6.893" transform="translate(4.033 5.248)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_102" data-name="Path 102" d="M26.25,51.893V45H45.285v6.893" transform="translate(4.033 6.7)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_27" data-name="Line 27" y2="5.17" transform="translate(34.609 42.222)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_28" data-name="Line 28" y2="5.17" transform="translate(39.801 42.222)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_29" data-name="Line 29" y2="5.17" transform="translate(44.992 42.222)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_30" data-name="Line 30" y2="5.17" transform="translate(34.609 53.423)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_31" data-name="Line 31" y2="5.17" transform="translate(39.801 53.423)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_32" data-name="Line 32" y2="5.17" transform="translate(44.992 53.423)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_33" data-name="Line 33" y2="5.17" transform="translate(34.609 31.02)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_34" data-name="Line 34" y2="5.17" transform="translate(39.801 31.02)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_35" data-name="Line 35" y2="5.17" transform="translate(44.992 31.02)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_36" data-name="Line 36" y2="5.17" transform="translate(29.418 31.02)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_37" data-name="Line 37" y2="5.17" transform="translate(50.184 31.02)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_38" data-name="Line 38" y2="5.17" transform="translate(34.609 19.818)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_39" data-name="Line 39" y2="5.17" transform="translate(39.801 19.818)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_40" data-name="Line 40" y2="5.17" transform="translate(44.992 19.818)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_41" data-name="Line 41" y2="5.17" transform="translate(29.418 19.818)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_42" data-name="Line 42" y2="5.17" transform="translate(50.184 19.818)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_43" data-name="Line 43" y2="20.68" transform="translate(30.283 62.902)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_44" data-name="Line 44" y2="20.68" transform="translate(49.318 62.902)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_45" data-name="Line 45" x2="29.418" transform="translate(25.092 68.072)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

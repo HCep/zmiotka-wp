@@ -1,0 +1,66 @@
+@import 'variables.less';
+@import 'mixins.less';
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+    
+}
+html, body{
+    overflow-x:hidden;
+    font-family: 'Red Hat Display', sans-serif;
+}
+body{
+   
+    max-width:1920px;
+    margin:0 auto;
+}
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+p{
+    font-size:14px;
+    @media @medium{
+        font-size:16px;
+    }
+}
+.row{
+    margin-left:0;
+    margin-right:0;
+}
+.background-type, .wrapper-footer, .wrapper-contact{
+    background-repeat: no-repeat;
+    background-position:top right;
+}
+.text-white a{
+    color:white;
+}
+a{
+    color:@accent-color;
+    &:hover{
+        text-decoration:none;
+    }
+}
+.oferta-image{
+    img{
+        width:50%;
+        @media @x-small{
+            width:90%;
+           
+        }
+    }
+}
+.order{
+    order:2;
+    @media @medium{
+        order:0;
+    }
+}
+a{
+    white-space:nowrap;
+}
+.block{display: flex;
+flex-direction: column;
+max-height: 600px;
+justify-content: space-between;}

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296" height="296" viewBox="0 0 296 296">
+  <defs>
+    <filter id="Ellipse_136" x="0" y="0" width="296" height="296" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23abeb"/>
+      <stop offset="1" stop-color="#006a9c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="80" height="75" transform="translate(0 -0.325)" fill="none" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="oferta11" transform="translate(-802 -328)">
+    <g transform="matrix(1, 0, 0, 1, 802, 328)" filter="url(#Ellipse_136)">
+      <circle id="Ellipse_136-2" data-name="Ellipse 136" cx="130" cy="130" r="130" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_83" data-name="Ellipse 83" cx="90" cy="90" r="90" transform="translate(860 386)" fill="url(#linear-gradient)"/>
+    <g id="Group_33" data-name="Group 33" transform="translate(910.115 439.325)">
+      <g id="Group_28" data-name="Group 28" transform="translate(-0.115 0)">
+        <g id="Group_27" data-name="Group 27" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_20" data-name="Rectangle 20" width="20.689" height="46.429" transform="translate(50.146 24.871)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <line id="Line_46" data-name="Line 46" x2="11.479" transform="translate(50.026 32.609)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_47" data-name="Line 47" x2="11.479" transform="translate(50.026 40.347)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_48" data-name="Line 48" x2="11.479" transform="translate(50.026 48.085)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_49" data-name="Line 49" x2="11.479" transform="translate(50.026 55.823)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_50" data-name="Line 50" x2="11.479" transform="translate(50.026 63.523)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Group_30" data-name="Group 30" transform="translate(-0.115 0)">
+        <g id="Group_29" data-name="Group 29" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <line id="Line_51" data-name="Line 51" y2="61.905" transform="translate(50.145 9.395)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect id="Rectangle_22" data-name="Rectangle 22" width="41.455" height="61.905" transform="translate(8.689 9.395)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <rect id="Rectangle_23" data-name="Rectangle 23" width="18.702" height="8.27" transform="translate(20.066 1.125)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+      <line id="Line_52" data-name="Line 52" x2="21.38" transform="translate(18.614 17.133)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_53" data-name="Line 53" x2="21.38" transform="translate(18.614 24.871)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_54" data-name="Line 54" x2="21.38" transform="translate(18.614 32.609)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_55" data-name="Line 55" x2="21.38" transform="translate(18.614 40.347)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_56" data-name="Line 56" x2="21.38" transform="translate(18.614 48.085)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_57" data-name="Line 57" x2="21.38" transform="translate(18.614 55.823)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <g id="Group_32" data-name="Group 32" transform="translate(-0.115 0)">
+        <g id="Group_31" data-name="Group 31" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="10.019" height="7.738" transform="translate(24.408 63.561)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          <line id="Line_58" data-name="Line 58" x2="77.044" transform="translate(1.24 71.299)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

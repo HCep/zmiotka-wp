@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="296" height="296" viewBox="0 0 296 296">
+  <defs>
+    <filter id="Ellipse_137" x="0" y="0" width="296" height="296" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#23abeb"/>
+      <stop offset="1" stop-color="#006a9c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="80" height="80" transform="translate(0 0.319)" fill="none" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="oferta12" transform="translate(-822 -808)">
+    <g transform="matrix(1, 0, 0, 1, 822, 808)" filter="url(#Ellipse_137)">
+      <circle id="Ellipse_137-2" data-name="Ellipse 137" cx="130" cy="130" r="130" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <g id="Group_58" data-name="Group 58" transform="translate(350 -600)">
+      <circle id="Ellipse_84" data-name="Ellipse 84" cx="90" cy="90" r="90" transform="translate(530 1466)" fill="url(#linear-gradient)"/>
+      <g id="Group_36" data-name="Group 36" transform="translate(580 1515.681)">
+        <path id="Path_103" data-name="Path 103" d="M47.67,20V6.305H57.9V31.322" transform="translate(9.872 1.376)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <g id="Group_35" data-name="Group 35" transform="translate(0 0)">
+          <g id="Group_34" data-name="Group 34" clip-path="url(#clip-path)">
+            <line id="Line_59" data-name="Line 59" x2="37.743" y2="37.743" transform="translate(38.951 3.625)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <line id="Line_60" data-name="Line 60" x2="37.743" y2="37.743" transform="translate(38.951 3.625)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_104" data-name="Path 104" d="M1,40.742,38.743,3,76.484,40.742" transform="translate(0.209 0.625)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+            <path id="Path_105" data-name="Path 105" d="M66.006,40.361,37.571,11.214,8.42,40.361V76.772H28.725V48.9H45.7V76.772H66.006Z" transform="translate(1.756 2.338)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
